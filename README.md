@@ -16,3 +16,5 @@ sudo mysql -u root -p < load.sql
 # GUI
 For managing the DB and executing queries I am using SchemaDB, which is super easy to set up, while the MySQL server is up and running
 ![image](https://github.com/user-attachments/assets/ca74f209-5018-40f6-b755-c89d1692ab42)
+
+There are also 2 generated files (a pdf and a html) from schemaDB which serve as a reference to the DB. In the html one, it allows the user to hover over the relational diagramm and see the relations clearly.
