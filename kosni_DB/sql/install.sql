@@ -280,7 +280,7 @@ CREATE INDEX idx_resalebuyerqueue_performance ON ResaleBuyerQueue (Performance_I
 
 DELIMITER $$
 
--- ✅ Prevent overlapping events on the same stage within the same festival
+--Prevent overlapping events on the same stage within the same festival
 CREATE TRIGGER prevent_event_overlap
 BEFORE INSERT ON Event
 FOR EACH ROW
@@ -303,7 +303,7 @@ BEGIN
   END IF;
 END$$
 
--- ✅ Same as above, but for updates
+-- Same as above, but for updates
 CREATE TRIGGER prevent_event_overlap_update
 BEFORE UPDATE ON Event
 FOR EACH ROW
@@ -326,7 +326,7 @@ BEGIN
   END IF;
 END$$
 
--- ✅ Enforce a break between sequential performances within an event
+-- Enforce a break between sequential performances within an event
 CREATE TRIGGER check_performance_break
 BEFORE INSERT ON Performance
 FOR EACH ROW
@@ -356,7 +356,7 @@ BEGIN
   FROM Performance
   WHERE Event_ID = NEW.Event_ID
     AND Start_Time < NEW.Start_Time
-    AND DATE(Start_Time) = DATE(NEW.Start_Time);  -- ✅ Only same-day performances
+    AND DATE(Start_Time) = DATE(NEW.Start_Time);  --Only same-day performances
 
   IF previous_end_time IS NOT NULL THEN
     SET break_duration = TIMESTAMPDIFF(MINUTE, previous_end_time, NEW.Start_Time);
@@ -368,7 +368,7 @@ BEGIN
   END IF;
 END$$
 
--- ✅ Prevent artist overlap within the same festival
+-- Prevent artist performance overlap within the same festival
 CREATE TRIGGER prevent_artist_overlap
 BEFORE INSERT ON Performance
 FOR EACH ROW
@@ -398,7 +398,8 @@ BEGIN
   END IF;
 END$$
 
--- ✅ Prevent band overlap within the same festival
+
+-- Prevent band overlap within the same festival
 CREATE TRIGGER prevent_band_overlap
 BEFORE INSERT ON Performance
 FOR EACH ROW
@@ -498,7 +499,7 @@ DELIMITER ;
 
 DELIMITER $$
 
--- ✅ Ensure stage capacity is not exceeded
+-- Ensure stage capacity is not exceeded
 CREATE TRIGGER check_stage_capacity
 BEFORE INSERT ON Ticket
 FOR EACH ROW
@@ -522,7 +523,7 @@ BEGIN
   END IF;
 END$$
 
--- ✅ Enforce VIP ticket limit to 10% of stage capacity
+-- Enforce VIP ticket limit to 10% of stage capacity
 CREATE TRIGGER check_vip_limit
 BEFORE INSERT ON Ticket
 FOR EACH ROW
@@ -579,7 +580,7 @@ DELIMITER ;
 
 DELIMITER $$
 
--- ✅ Automatically match resale tickets with buyers (FIFO)
+-- Automatically match resale tickets with buyers (FIFO)
 CREATE PROCEDURE ProcessResaleQueue()
 BEGIN
   DECLARE done INT DEFAULT FALSE;

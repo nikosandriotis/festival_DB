@@ -5,20 +5,20 @@ SELECT
 FROM
     Artist a
 JOIN
-    Performance p ON a.Artist_ID = p.Artist_ID -- Link artist to their performances
+    Performance p ON a.Artist_ID = p.Artist_ID 
 JOIN
-    Event e ON p.Event_ID = e.Event_ID         -- Link performance to the event
+    Event e ON p.Event_ID = e.Event_ID         
 JOIN
-    Festival f ON e.Festival_ID = f.Festival_ID -- Link event to the festival
+    Festival f ON e.Festival_ID = f.Festival_ID
 JOIN
-    Location loc ON f.Location_ID = loc.Location_ID -- Link festival to its location to get the continent
+    Location loc ON f.Location_ID = loc.Location_ID 
 WHERE
-    p.Artist_ID IS NOT NULL -- Ensure we are considering solo artist performances
-    AND loc.Continent IS NOT NULL AND loc.Continent != '' -- Ensure continent data is valid
+    p.Artist_ID IS NOT NULL 
+    AND loc.Continent IS NOT NULL AND loc.Continent != '' 
 GROUP BY
-    a.Artist_ID, a.Stage_Name                 -- Group by each artist
+    a.Artist_ID, a.Stage_Name                 
 HAVING
-    COUNT(DISTINCT loc.Continent) >= 3     -- Filter for artists who have performed on at least 3 distinct continents
+    COUNT(DISTINCT loc.Continent) >= 3     
 ORDER BY
-    DistinctContinents DESC,                 -- Optional: Order by the number of continents
+    DistinctContinents DESC,                 
     a.Stage_Name ASC;
