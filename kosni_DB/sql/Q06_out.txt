@@ -1,0 +1,4 @@
+
+First_Name	Last_Name	Performance_ID	Type	Start_Time	Artist_Name	Avg_Rating
+Mary	Choi	19	Headline	2022-04-28 10:00:00.0	The Notorious B.I.G.	2
+Mary	Choi	106	Headline	2024-09-13 10:00:00.0	Nicki Minaj	2

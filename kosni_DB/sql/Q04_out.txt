@@ -1,0 +1,3 @@
+
+Artist_ID	Stage_Name	Avg_Artist_Performance	Avg_Overall_Impression
+1	Lady Gaga	2.50	3

@@ -1,0 +1,94 @@
+
+Staff_ID	Name	Role	Experience_Level
+2	Phillip Callahan	Auxiliary	Intermediate
+8	Tanner Smith	Auxiliary	Intermediate
+14	Kylie Warren	Auxiliary	Beginner
+22	Philip Phillips	Auxiliary	Expert
+26	Dr. Tracy Reynolds	Auxiliary	Intermediate
+29	Donald Yoder	Auxiliary	Expert
+34	Cynthia Miller	Auxiliary	Intern
+37	Austin Walton	Auxiliary	Intermediate
+38	Christopher Conner	Auxiliary	Experienced
+46	Shawn Herrera	Auxiliary	Experienced
+55	Debra Goodman	Auxiliary	Intermediate
+58	Deborah Stone	Auxiliary	Experienced
+63	Stephanie Harding	Auxiliary	Intermediate
+64	Kelsey Williams	Auxiliary	Beginner
+71	Marcus Cox	Auxiliary	Experienced
+73	Mr. Carl Stephens DDS	Auxiliary	Expert
+74	Timothy Miller	Auxiliary	Experienced
+78	Kayla Horton	Auxiliary	Intern
+79	Ana Schneider	Auxiliary	Expert
+83	Carolyn King	Auxiliary	Intermediate
+89	Leah Miller MD	Auxiliary	Expert
+91	Matthew Baker	Auxiliary	Beginner
+100	Jennifer Edwards	Auxiliary	Experienced
+107	Generated Staff 107	Auxiliary	Intermediate
+115	Generated Staff 115	Auxiliary	Expert
+116	Generated Staff 116	Auxiliary	Expert
+117	Generated Staff 117	Auxiliary	Beginner
+128	Generated Staff 128	Auxiliary	Intermediate
+134	Generated Staff 134	Auxiliary	Beginner
+137	Generated Staff 137	Auxiliary	Expert
+138	Generated Staff 138	Auxiliary	Experienced
+140	Generated Staff 140	Auxiliary	Beginner
+141	Generated Staff 141	Auxiliary	Beginner
+144	Generated Staff 144	Auxiliary	Expert
+145	Generated Staff 145	Auxiliary	Beginner
+147	Generated Staff 147	Auxiliary	Experienced
+148	Generated Staff 148	Auxiliary	Expert
+149	Generated Staff 149	Auxiliary	Expert
+152	Generated Staff 152	Auxiliary	Intermediate
+155	Generated Staff 155	Auxiliary	Experienced
+158	Generated Staff 158	Auxiliary	Beginner
+160	Generated Staff 160	Auxiliary	Intermediate
+166	Generated Staff 166	Auxiliary	Intermediate
+170	Generated Staff 170	Auxiliary	Intermediate
+173	Generated Staff 173	Auxiliary	Beginner
+175	Generated Staff 175	Auxiliary	Intermediate
+177	Generated Staff 177	Auxiliary	Beginner
+178	Generated Staff 178	Auxiliary	Expert
+179	Generated Staff 179	Auxiliary	Experienced
+183	Generated Staff 183	Auxiliary	Experienced
+186	Generated Staff 186	Auxiliary	Intermediate
+187	Generated Staff 187	Auxiliary	Beginner
+188	Generated Staff 188	Auxiliary	Expert
+189	Generated Staff 189	Auxiliary	Experienced
+192	Generated Staff 192	Auxiliary	Intermediate
+194	Generated Staff 194	Auxiliary	Experienced
+197	Generated Staff 197	Auxiliary	Experienced
+198	Generated Staff 198	Auxiliary	Expert
+199	Generated Staff 199	Auxiliary	Beginner
+200	Generated Staff 200	Auxiliary	Intermediate
+201	Generated Staff 201	Auxiliary	Beginner
+205	Generated Staff 205	Auxiliary	Expert
+208	Generated Staff 208	Auxiliary	Beginner
+216	Generated Staff 216	Auxiliary	Experienced
+225	Generated Staff 225	Auxiliary	Experienced
+226	Generated Staff 226	Auxiliary	Expert
+230	Generated Staff 230	Auxiliary	Intermediate
+231	Generated Staff 231	Auxiliary	Beginner
+232	Generated Staff 232	Auxiliary	Experienced
+233	Generated Staff 233	Auxiliary	Experienced
+234	Generated Staff 234	Auxiliary	Beginner
+237	Generated Staff 237	Auxiliary	Expert
+239	Generated Staff 239	Auxiliary	Experienced
+241	Generated Staff 241	Auxiliary	Experienced
+242	Generated Staff 242	Auxiliary	Intermediate
+250	Generated Staff 250	Auxiliary	Experienced
+253	Generated Staff 253	Auxiliary	Expert
+256	Generated Staff 256	Auxiliary	Experienced
+264	Generated Staff 264	Auxiliary	Experienced
+267	Generated Staff 267	Auxiliary	Intermediate
+274	Generated Staff 274	Auxiliary	Experienced
+275	Generated Staff 275	Auxiliary	Beginner
+279	Generated Staff 279	Auxiliary	Expert
+283	Generated Staff 283	Auxiliary	Experienced
+285	Generated Staff 285	Auxiliary	Expert
+286	Generated Staff 286	Auxiliary	Beginner
+287	Generated Staff 287	Auxiliary	Experienced
+288	Generated Staff 288	Auxiliary	Experienced
+289	Generated Staff 289	Auxiliary	Experienced
+290	Generated Staff 290	Auxiliary	Beginner
+292	Generated Staff 292	Auxiliary	Beginner
+298	Generated Staff 298	Auxiliary	Expert

@@ -1,0 +1,9 @@
+
+GenreName	Year1	Year2	PerformanceCount
+Blues	2022	2023	3
+Blues	2023	2024	3
+Country	2022	2023	8
+Country	2023	2024	8
+Funk	2022	2023	8
+Soul	2023	2024	4
+Techno	2023	2024	4

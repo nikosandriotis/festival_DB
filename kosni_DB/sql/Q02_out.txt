@@ -1,0 +1,23 @@
+
+Artist_ID	Stage_Name	Genre_Name	Participated_Year
+6	Eminem	Rock	2022-01-01
+6	Eminem	Rock	2023-01-01
+8	Kanye West	Rock	2022-01-01
+10	Justin Bieber	Rock	2022-01-01
+24	Ariana Grande	Rock	2022-01-01
+25	Billie Eilish	Rock	2024-01-01
+35	Nicki Minaj	Rock	2022-01-01
+35	Nicki Minaj	Rock	2024-01-01
+48	Adele	Rock	2022-01-01
+48	Adele	Rock	2024-01-01
+58	Ringo Starr	Rock	2023-01-01
+73	Malú Trevejo	Rock	2022-01-01
+78	Chappell Roan	Rock	2022-01-01
+78	Chappell Roan	Rock	2023-01-01
+78	Chappell Roan	Rock	2024-01-01
+82	William Dunst	Rock	2022-01-01
+82	William Dunst	Rock	2023-01-01
+82	William Dunst	Rock	2024-01-01
+90	Jeonghan	Rock	2023-01-01
+90	Jeonghan	Rock	2024-01-01
+92	Jun	Rock	2024-01-01

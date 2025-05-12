@@ -1,0 +1,3 @@
+
+Festival_ID	Year	Avg_Experience_Score
+17	2024-01-01	2.5714

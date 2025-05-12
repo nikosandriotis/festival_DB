@@ -1,0 +1,6 @@
+
+Artist_ID	Stage_Name	DistinctContinents
+3	Drake	3
+2	Jay-Z	3
+1	Lady Gaga	3
+5	Rihanna	3

@@ -1,0 +1,78 @@
+
+Artist_ID	Stage_Name	AppearanceCount
+7	Taylor Swift	3
+18	Snoop Dogg	3
+35	Nicki Minaj	3
+3	Drake	3
+76	Dean Lewis	3
+98	NIKI	3
+38	Lil Baby	3
+46	Snoop Dogg	3
+94	Wonwoo	3
+78	Chappell Roan	3
+100	Madison Calley	3
+2	Jay-Z	3
+23	Ed Sheeran	3
+49	Alan Walker	3
+45	50 Cent	3
+15	Alicia Keys	3
+33	Travis Scott	3
+89	S.Coups	3
+11	Bruno Mars	3
+22	Camila Cabello	3
+48	Adele	3
+59	David Bowie	3
+83	Melanie Martinez	3
+69	Monika	2
+79	Coco Jones	2
+91	Joshua	2
+13	Rihanna	2
+41	Drake	2
+50	Lindsay Ell	2
+21	Shawn Mendes	2
+29	Rick Ross	2
+81	Halsey	2
+6	Eminem	2
+17	Usher	2
+26	Dua Lipa	2
+34	Cardi B	2
+90	Jeonghan	2
+40	Megan Thee Stallion	2
+61	Kurt Cobain	2
+75	Chris Young	2
+19	Eminem	2
+28	Taylor Swift	2
+80	NIKI	2
+25	Billie Eilish	2
+52	Elvis Presley	2
+99	Halsey	2
+27	Harry Styles	1
+44	Kanye West	1
+56	Paul McCartney	1
+24	Ariana Grande	1
+32	Lana Del Rey	1
+64	Kirk Hammett	1
+87	Chappell Roan	1
+10	Justin Bieber	1
+58	Ringo Starr	1
+72	dev.m4a	1
+43	Eminem	1
+53	Bob Marley	1
+67	Joe Perry	1
+12	Katy Perry	1
+31	John Legend	1
+85	Drake	1
+97	Chappell Roan	1
+8	Kanye West	1
+36	Doja Cat	1
+57	George Harrison	1
+70	DellaXOZ	1
+92	Jun	1
+4	Adele	1
+42	Jay-Z	1
+65	Robert Trujillo	1
+77	Myles Smith	1
+30	6ix9ine	1
+39	Lil Wayne	1
+73	Malú Trevejo	1
+95	Mr. Lexx	1

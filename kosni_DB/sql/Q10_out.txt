@@ -1,0 +1,5 @@
+
+Genre1	Genre2	PairCount
+Soul	Punk	3
+Rock	Reggae	2
+Jazz	Hip Hop	2

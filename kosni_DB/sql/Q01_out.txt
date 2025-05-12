@@ -1,0 +1,11 @@
+
+Year	Payment_Method	Total_Revenue
+2022-01-01	Credit Card	3540.92
+2022-01-01	Debit Card	4077.37
+2022-01-01	Bank Transfer	3320.09
+2023-01-01	Credit Card	4924.84
+2023-01-01	Debit Card	5218.15
+2023-01-01	Bank Transfer	5071.93
+2024-01-01	Credit Card	3564.88
+2024-01-01	Debit Card	3559.97
+2024-01-01	Bank Transfer	3271.02

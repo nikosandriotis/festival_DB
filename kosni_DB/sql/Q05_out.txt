@@ -1,0 +1,12 @@
+
+Artist_ID	Stage_Name	Age	Festival_Count
+94	Wonwoo	28	3
+93	Hoshi	28	3
+82	William Dunst	17	3
+78	Chappell Roan	27	3
+89	S.Coups	29	2
+80	NIKI	26	2
+22	Camila Cabello	28	2
+91	Joshua	29	2
+21	Shawn Mendes	26	2
+98	NIKI	26	2

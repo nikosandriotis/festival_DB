@@ -1,0 +1,7 @@
+
+VisitorName	ArtistName	TotalOverallRatingToArtist
+Jesus Jackson	Taylor Swift	3
+Jennifer Davis	Kirk Hammett	3
+Christina Campbell	Nicki Minaj	3
+Alex Bell	Alan Walker	3
+Angelica Clark	Lady Gaga	3
